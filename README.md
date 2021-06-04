@@ -1,6 +1,5 @@
 # android--Push-Ups-Counter
-![video1](https://user-images.githubusercontent.com/56175479/120790991-e7545600-c533-11eb-83f8-6b61d2677f5b.gif)
-![video2](https://user-images.githubusercontent.com/56175479/120791031-f3401800-c533-11eb-9b34-78b4d52f9ced.gif)
+
 
 
 
